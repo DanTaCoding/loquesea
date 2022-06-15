@@ -1,0 +1,53 @@
+aside{
+    width: 35%;
+    background-color: bisque;
+    height: 500px;
+    float:right;
+}
+
+img{
+
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 70%;
+margin-top: 50px;
+
+}
+
+article{
+    background-color: blueviolet;
+    width: 65%;
+    height: 150px;
+}
+
+section{
+    background-color:cadetblue;
+    width: 65%;
+    height: 350px;
+    
+}
+
+.video{
+   float: right;
+   display: block;
+   margin-top: 15px;
+   margin-right: 30px;
+   
+}
+
+.map{
+   float:left
+   display: block;
+   margin-left: 50px;
+   margin-top: 70px;
+  
+}
+
+.center{
+    align-self: center;
+    text-align: center;
+    font-style: italic;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
